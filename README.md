@@ -1,6 +1,9 @@
+
+
 # InterfazWeb
 
-# Nombre de la aplicación
+# MovieSFC
+![enter image description here][![MovieSfc.png](https://i.postimg.cc/NGKcw0Hp/MovieSfc.png)](https://postimg.cc/vDwjrbXV)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
